@@ -1,2 +1,2 @@
 # py-projects
-Doing somne Python script , trying to make my dayly tasks more easier with these scripts
+Doing some Python script , trying to make my daily tasks more easier with these scripts
